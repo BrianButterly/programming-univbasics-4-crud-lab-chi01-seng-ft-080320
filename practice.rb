@@ -3,4 +3,3 @@ def dogs
 dogs[2]
 p.index_number
 end
-p.index_number
